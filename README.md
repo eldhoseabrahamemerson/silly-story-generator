@@ -7,10 +7,6 @@ A fun JavaScript project that generates random silly stories with customizable n
 **GitHub Pages:**
 https://eldhoseabrahamemerson.github.io/silly-story-generator/
 
-## 📂 Repository
-
-https://github.com/eldhoseabrahamemerson/silly-story-generator
-
 ## 📖 About the Project
 
 The Silly Story Generator creates a new random story every time the **Generate Random Story** button is clicked. Users can personalize the story by entering a custom name and choose between US and UK locales for automatic temperature and weight conversions.
@@ -46,7 +42,7 @@ silly-story-generator/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/silly-story-generator.git
+git clone https://github.com/eldhoseabrahamemerson/silly-story-generator.git
 ```
 
 2. Open the project folder.
